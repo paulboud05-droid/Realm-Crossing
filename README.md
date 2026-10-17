@@ -1,4 +1,6 @@
-# Pocket Island
+# Realm Craft
+
+*(formerly Pocket Island; the repository, links and save data keep the old name so nothing breaks.)*
 
 An original cozy island-life game that runs in your browser on desktop and phone.
 
